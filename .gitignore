@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Arquivos temporários
+.DS_Store
