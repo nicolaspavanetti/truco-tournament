@@ -6,8 +6,8 @@ The project implements matches between pairs of players using different strategi
 
 ## Authors
 
-- **Nicolas Pavanetti**
-- **Bruno Alvim Cravo**
+- **Nicolas Pavanetti** [GitHub](https://github.com/nicolaspavanetti)
+- **Bruno Alvim Cravo** [GitHub](https://github.com/yorb0)
 
 Developed as a pair programming project for the MC102 course.
 
